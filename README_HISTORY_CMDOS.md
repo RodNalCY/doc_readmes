@@ -29,3 +29,5 @@ Para consultar el historial de comandos en tu terminal, puedes usar el siguiente
 
 ```bash
 D:\laragon\www\crm_elsol> doskey /history
+
+-----------------------------------------------------
